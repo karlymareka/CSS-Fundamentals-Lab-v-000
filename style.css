@@ -9,6 +9,7 @@ figcaption {
 }
 
 div #details {
-  background-color: red 
+  background-color: red;
+  width: 25;
   
 }
