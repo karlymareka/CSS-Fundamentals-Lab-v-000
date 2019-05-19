@@ -11,5 +11,6 @@ figcaption {
 div #details {
   background-color: red;
   width: 25%;
+  float: left;
   
 }
